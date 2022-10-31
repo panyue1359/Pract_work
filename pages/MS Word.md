@@ -1,0 +1,34 @@
+- MS Word/基础
+	- ((79b87fdc-e68e-4ee5-b25c-ef58dff8ba19))
+	  id:: 62188bff-b509-4cc1-a2ad-632c96777707
+		- [MathType使用介绍 - 知乎](https://zhuanlan.zhihu.com/p/427392956)
+		- LaTeX公式转Word公式
+			- 方法1 [latex 公式转为 word 公式 - kendi - 博客园](https://www.cnblogs.com/da-liny/p/10968238.html)。
+			- 方法2 [Latex公式转Word](http://web.xiaoyv.top/web/LatexToMathML)，按提示操作。
+		- [Word - 快速输入数学公式 | Jacob Zhong](https://zyxin.xyz/blog/2017-08/WordMath)
+		- [Word 2016自带公式编辑器如何做到等号对齐？ - 刘忙的回答 - 知乎](https://www.zhihu.com/question/42837433/answer/94929570)
+		- [如何在Word中使用(Aurora)插入Latex代码 - 夜半马向湾 - 博客园](https://www.cnblogs.com/Lisamon/p/11162697.html)
+		- [Word2016公式设置自动编号右对齐和交叉引用_u12040330的博客-CSDN博客](https://blog.csdn.net/u12040330/article/details/88180421)
+			- 整体思路:输入完latex公式要按空格确定，紧接着在公式输入框输入\#n（n为自己指定的公式编号，例如1,2,3……），然后按回车即可实现公式居中，编号右对齐。
+			- 自动编号:将编号n变为可以自动编号的东西即可，例如题注，域等。其实题注的本质也是域。此处可用来实现公式自动编号的域有：autonum、listnum、seq（题注本质上就是seq域）
+			- 加上划线，先输入公式，按空格出现一道，然后输入数字按空格，不需要打{}。
+	- ((4fb6f98b-f76c-47dd-ab96-253a9a41431d))
+		- [如何删除Word空白页？ - 知乎](https://www.zhihu.com/question/393226815/answer/1220486734)
+		- [word编号后怎么让其不自动缩进_铁头娃-CSDN博客_word编号自动缩进取消](https://blog.csdn.net/qq_40541268/article/details/90703114)
+			- 如果想要取消编号后的首行悬挂,首先选中编号,然后选择多级列表下拉菜单-定义新的多级列表,设置文本缩进位置为0厘米.还可以设置编号格式,在左右两侧加上[].
+			  输入参考文献后用回车分开,全选添加编号项,然后就可以在交叉引用的编号项里看到这些参考文献了.点击插入,就可以在目前光标所在的位置插入序号.
+			- 跳转以后使用快捷键Shift+f5可以返回刚才的位置
+		- ((704adf5b-609c-4441-aa0d-db35d9a0bd4f))：插入表格，将图片放入表格中，然后隐藏表格边框
+	- 文字处理
+		- 高级查找-在以下项中查找-直接拖走选中的空格-Backspace删除
+	- ((d1ecc318-3166-4d44-acb9-4e59fe995c42))
+	- ((629ef9ee-29eb-43da-9670-31156dde9c06))
+		- [对 Word 使用版本控制。](https://support.microsoft.com/zh-cn/office/%E5%AF%B9-word-%E4%BD%BF%E7%94%A8%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6-46b4d23f-b032-4837-94ab-746de8fbe6ec)：OneDrive 或 SharePoint，在国内速度太慢
+- MS Word/问题
+	- 你的许可证并非正版，你可能是盗版软件的受害者
+		- 下载Office Tool Plus：[你的许可证并非正版，你可能是盗版软件的受害者,此问题怎么解决，请有解决过的大佬提供方法，激活软件无效？ - VR产品Dog的回答 - 知乎](https://www.zhihu.com/question/486495819/answer/2382319712)
+- MS Word/插件
+- MS Word/助手
+	- Simul：[Version Control and Collaboration for Microsoft Word | Simul Docs](https://www.simuldocs.com/)
+		- Word文档 ((629ef9ee-29eb-43da-9670-31156dde9c06))
+		- Word文档 ((62c1445b-b67f-4571-99e8-442a5faa76d5))

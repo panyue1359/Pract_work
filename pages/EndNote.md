@@ -1,0 +1,11 @@
+- EndNote/官网
+	- 社区：[Discourse](https://community.endnote.com/)
+- EndNote/安装
+	- EndNote X9.1 汉化破解版.exe
+- EndNote/基础
+	- ((635b96c6-c6fa-4ad1-86ed-b58c8b22d497))
+- EndNote/问题
+	- 无法从剪贴板导入，必须通过文件导入
+		- 目前不支持其他方式导入 [Importing references for non-DOI documents - EndNote / EndNote How To - Discourse](https://community.endnote.com/t/importing-references-for-non-doi-documents/704098/2)、[Accept drag-and-drops from applications such as Zotero - EndNote / EndNote Product Suggestions - Discourse](https://community.endnote.com/t/accept-drag-and-drops-from-applications-such-as-zotero/332537)
+- EndNote/插件
+- EndNote/助手
