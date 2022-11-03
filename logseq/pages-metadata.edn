@@ -205,9 +205,6 @@
  {:block/name "决策树",
   :block/created-at 1651734228985,
   :block/updated-at 1651734228985}
- {:block/name "刘轶",
-  :block/created-at 1667208464520,
-  :block/updated-at 1667208464520}
  {:block/name "办公技能",
   :block/created-at 1666934543987,
   :block/updated-at 1667124418391}
@@ -282,7 +279,7 @@
   :block/updated-at 1651734229664}
  {:block/name "模拟仿真",
   :block/created-at 1656333389554,
-  :block/updated-at 1656821166459}
+  :block/updated-at 1667290611907}
  {:block/name "模板",
   :block/created-at 1651734227901,
   :block/updated-at 1651912895238}
@@ -336,16 +333,13 @@
   :block/updated-at 1651734229969}
  {:block/name "金相制备与观察",
   :block/created-at 1656333389592,
-  :block/updated-at 1656333389592}
- {:block/name "钱权",
-  :block/created-at 1667208420831,
-  :block/updated-at 1667208420831}
+  :block/updated-at 1667367910227}
  {:block/name "降维",
   :block/created-at 1651734229402,
   :block/updated-at 1651734229402}
  {:block/name "随机森林",
   :block/created-at 1651734228983,
-  :block/updated-at 1655388950918}
+  :block/updated-at 1667212136060}
  {:block/name "集成学习",
   :block/created-at 1651734230325,
   :block/updated-at 1651734230325}
