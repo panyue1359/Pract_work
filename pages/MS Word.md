@@ -22,13 +22,10 @@
 	- 文字处理
 		- 高级查找-在以下项中查找-直接拖走选中的空格-Backspace删除
 	- ((d1ecc318-3166-4d44-acb9-4e59fe995c42))
-	- ((629ef9ee-29eb-43da-9670-31156dde9c06))
-		- [对 Word 使用版本控制。](https://support.microsoft.com/zh-cn/office/%E5%AF%B9-word-%E4%BD%BF%E7%94%A8%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6-46b4d23f-b032-4837-94ab-746de8fbe6ec)：OneDrive 或 SharePoint，在国内速度太慢
+	- [对 Word 使用版本控制。](https://support.microsoft.com/zh-cn/office/%E5%AF%B9-word-%E4%BD%BF%E7%94%A8%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6-46b4d23f-b032-4837-94ab-746de8fbe6ec)：OneDrive 或 SharePoint，在国内速度太慢
 - MS Word/问题
 	- 你的许可证并非正版，你可能是盗版软件的受害者
 		- 下载Office Tool Plus：[你的许可证并非正版，你可能是盗版软件的受害者,此问题怎么解决，请有解决过的大佬提供方法，激活软件无效？ - VR产品Dog的回答 - 知乎](https://www.zhihu.com/question/486495819/answer/2382319712)
 - MS Word/插件
 - MS Word/助手
 	- Simul：[Version Control and Collaboration for Microsoft Word | Simul Docs](https://www.simuldocs.com/)
-		- Word文档 ((629ef9ee-29eb-43da-9670-31156dde9c06))
-		- Word文档 ((62c1445b-b67f-4571-99e8-442a5faa76d5))

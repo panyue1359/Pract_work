@@ -31,6 +31,7 @@ title: zotero
 		- linked file储存在其他位置，zotero只保留链接（链接关系属于data而不是file）
 		- 默认只同步storage file，包括webdav
 		- storage file在zotero中被删除，webdav中也会删除
+		- teracloud的直接复制文件夹路径会包含\\v2\，必须用\https://seto.teracloud.jp/dav/+文件夹路径，否则会报错HTTP 400
 	- 抓取元信息
 		- 从 [Zotero translator中文网页抓取插件](https://github.com/l0o0/translators_CN) 下载更多网页编译器，可以从当当、京东、文津抓取图书信息，可以从知乎保存更详细元信息和文章内容
 		- obsidian社区建议使用道格学社的translator替换上面的CN库  [目前知识管理存在的一些难点（持续更新中） - 每日闲聊 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/7486/2)、[gezhongran/DougSociety: 道格学社官方仓库](https://github.com/gezhongran/DougSociety)

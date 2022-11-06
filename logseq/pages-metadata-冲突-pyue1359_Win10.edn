@@ -84,7 +84,7 @@
   :block/updated-at 1666946411115}
  {:block/name "ms word",
   :block/created-at 1666946117507,
-  :block/updated-at 1667569544351}
+  :block/updated-at 1666946117507}
  {:block/name "noteexpress",
   :block/created-at 1666946117585,
   :block/updated-at 1666946117585}
@@ -99,7 +99,7 @@
   :block/updated-at 1666947027366}
  {:block/name "oct 28th, 2022",
   :block/created-at 1666946963255,
-  :block/updated-at 1667636313020}
+  :block/updated-at 1667123187308}
  {:block/name "origin",
   :block/created-at 1666946117609,
   :block/updated-at 1666947577472}
@@ -111,7 +111,7 @@
   :block/updated-at 1652780360675}
  {:block/name "python",
   :block/created-at 1651734228175,
-  :block/updated-at 1667482660567}
+  :block/updated-at 1651978355125}
  {:block/name "python/library",
   :block/created-at 1651734228175,
   :block/updated-at 1652496120321}
@@ -174,7 +174,7 @@
   :block/updated-at 1651734228619}
  {:block/name "zotero",
   :block/created-at 1666946117867,
-  :block/updated-at 1667554805707}
+  :block/updated-at 1667204130400}
  {:block/name "不确定性量化",
   :block/created-at 1651734228036,
   :block/updated-at 1651734228036}
@@ -207,7 +207,7 @@
   :block/updated-at 1651734228985}
  {:block/name "办公技能",
   :block/created-at 1666934543987,
-  :block/updated-at 1667553106881}
+  :block/updated-at 1667124418391}
  {:block/name "半监督学习",
   :block/created-at 1651734229049,
   :block/updated-at 1651734229049}
@@ -309,7 +309,7 @@
   :block/updated-at 1651734229933}
  {:block/name "自助采样法",
   :block/created-at 1651734229970,
-  :block/updated-at 1667475116186}
+  :block/updated-at 1651734229970}
  {:block/name "试验与表征分析",
   :block/created-at 1651734227660,
   :block/updated-at 1666947595945}
