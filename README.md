@@ -1,2 +1,2 @@
-# public_toolkit
-logseq public toolkit graph
+# Pract_work
+logseq pract work graph
