@@ -90,7 +90,7 @@
   :block/updated-at 1666946117585}
  {:block/name "nov 6th, 2022",
   :block/created-at 1667728130975,
-  :block/updated-at 1667742627134}
+  :block/updated-at 1668329972108}
  {:block/name "now",
   :block/created-at 1651734501987,
   :block/updated-at 1651734501987}
@@ -210,7 +210,7 @@
   :block/updated-at 1651734228985}
  {:block/name "办公技能",
   :block/created-at 1666934543987,
-  :block/updated-at 1667742585987}
+  :block/updated-at 1668331979302}
  {:block/name "半监督学习",
   :block/created-at 1651734229049,
   :block/updated-at 1651734229049}
@@ -225,7 +225,7 @@
   :block/updated-at 1666946118202}
  {:block/name "学术研究与交流",
   :block/created-at 1667742524289,
-  :block/updated-at 1668174057086}
+  :block/updated-at 1668334175539}
  {:block/name "定量结构-性质关联性",
   :block/created-at 1651734229126,
   :block/updated-at 1651734229126}
