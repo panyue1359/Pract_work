@@ -1,8 +1,5 @@
----
-title: PyCaret
----
-
 - Pycaret官网
+  collapsed:: true
 	- [PyCaret帮助网站](https://pycaret.readthedocs.io/en/latest/installation.html)
 - PyCaret\基础
   collapsed:: true
@@ -34,6 +31,7 @@ title: PyCaret
 			- [Tuned model behaves even worse · Issue #234 · pycaret/pycaret](https://github.com/pycaret/pycaret/issues/234)：建议设置choose_better=True，并提高n_iter
 			- [5个PyCaret的常见误解 - 人工智能遇见磐创 - 博客园](https://www.cnblogs.com/panchuangai/p/13967157.html)：先调好参数再creat_model
 			- [Time Series | Tuning Custom Models & Pipelines · Discussion #1954 · pycaret/pycaret](https://github.com/pycaret/pycaret/discussions/1954)：通过设置return_tuner=True获取调参中间过程，如下
+			  collapsed:: true
 				- ``` python
 				  tuned_custom_model, tuner = exp.tune_model(custom_model, custom_grid=my_grid, return_tuner=True)
 				    #按分数降序排列
@@ -50,6 +48,7 @@ title: PyCaret
 		- [Quickstart - PyCaret Official](https://pycaret.gitbook.io/docs/get-started/quickstart#time-series-beta)
 		- 数据格式为Series，索引是时间，需要 ((4a5212de-5233-40ad-a363-76e5ad7ae0ba))
 		- [fold_strategy](https://github.com/pycaret/pycaret/discussions/1761)
+		  collapsed:: true
 			- SlidingWindowSplitter已替换为在setup-fold_strategy中设置"sliding"
 			- 根据time_series_experiment.py中源代码，**window_length**（预测所用数据天数）的公式为y_size - ((fold - 1) * step_length + 1 * fh_max_length)，**step_length**=fh
 			- 当fh=1时，window_length=fold
@@ -57,5 +56,6 @@ title: PyCaret
 	  collapsed:: true
 		- ((f5e7a530-b10f-404c-8f6f-1e66281d6318))
 - PyCaret\问题
+  collapsed:: true
 	- Pycaret中的BaggingRegressor代码和sklearn网站的不一样
 	- 报错 cannot import name 'delayed' from 'sklearn.utils.fixes，查看原文件发现文件名错误

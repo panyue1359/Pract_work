@@ -24,7 +24,7 @@
   :block/updated-at 1666946117288}
  {:block/name "contents",
   :block/created-at 1651734501987,
-  :block/updated-at 1668173807886}
+  :block/updated-at 1668435103743}
  {:block/name "doing",
   :block/created-at 1651734501987,
   :block/updated-at 1651734501987}
@@ -51,7 +51,7 @@
   :block/updated-at 1667209196371}
  {:block/name "jupyter notebook",
   :block/created-at 1651734227936,
-  :block/updated-at 1654655763264}
+  :block/updated-at 1668427898668}
  {:block/name "knn",
   :block/created-at 1651734228636,
   :block/updated-at 1651734228636}
@@ -88,6 +88,9 @@
  {:block/name "noteexpress",
   :block/created-at 1666946117585,
   :block/updated-at 1666946117585}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668392608308,
+  :block/updated-at 1668392817845}
  {:block/name "nov 6th, 2022",
   :block/created-at 1667728130975,
   :block/updated-at 1668329972108}
@@ -111,7 +114,7 @@
   :block/updated-at 1666946338316}
  {:block/name "pycaret",
   :block/created-at 1651734227824,
-  :block/updated-at 1652780360675}
+  :block/updated-at 1668428188142}
  {:block/name "python",
   :block/created-at 1651734228175,
   :block/updated-at 1667482660567}
@@ -201,7 +204,7 @@
   :block/updated-at 1666947433189}
  {:block/name "公式符号",
   :block/created-at 1666319000642,
-  :block/updated-at 1666947291363}
+  :block/updated-at 1668487104131}
  {:block/name "典型相关分析",
   :block/created-at 1651734228961,
   :block/updated-at 1651734228961}
@@ -210,7 +213,7 @@
   :block/updated-at 1651734228985}
  {:block/name "办公技能",
   :block/created-at 1666934543987,
-  :block/updated-at 1668331979302}
+  :block/updated-at 1668595833547}
  {:block/name "半监督学习",
   :block/created-at 1651734229049,
   :block/updated-at 1651734229049}
@@ -225,7 +228,7 @@
   :block/updated-at 1666946118202}
  {:block/name "学术研究与交流",
   :block/created-at 1667742524289,
-  :block/updated-at 1668334929436}
+  :block/updated-at 1668596421187}
  {:block/name "定量结构-性质关联性",
   :block/created-at 1651734229126,
   :block/updated-at 1651734229126}
@@ -237,7 +240,7 @@
   :block/updated-at 1651734229193}
  {:block/name "幻灯片设计",
   :block/created-at 1666319000645,
-  :block/updated-at 1666946550369}
+  :block/updated-at 1668519145514}
  {:block/name "异常值检测",
   :block/created-at 1651734229217,
   :block/updated-at 1651973340526}
@@ -327,7 +330,7 @@
   :block/updated-at 1651734230113}
  {:block/name "软件工程",
   :block/created-at 1651734227661,
-  :block/updated-at 1663314621524}
+  :block/updated-at 1668335488552}
  {:block/name "软计算",
   :block/created-at 1651734230144,
   :block/updated-at 1651734230144}
