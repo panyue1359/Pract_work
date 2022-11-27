@@ -1,12 +1,9 @@
----
-title: Python
----
-
 - Python/官网：[Our Documentation | Python.org](https://www.python.org/doc/)
   public:: true
   collapsed:: true
 - [[Python/安装]]
 - Python/基础
+  collapsed:: true
 	- Python/基础/教程
 		- 遍历对象
 		  id:: 6154715e-7844-4cb1-9c25-c7726eb2e278
