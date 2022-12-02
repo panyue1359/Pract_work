@@ -39,8 +39,6 @@ title: Python/Library
 		- [[MARS]]
 		- [[spyct]]
 		  id:: 6220bebc-c39a-4468-8629-0363cc695c01
-	- ((9401dc0b-b1f0-45f8-acec-d084e1e2cdb5))
-	  id:: 625cc33a-406a-404d-a7af-7ff49660b96e
 - Python/Library/不确定性量化
   collapsed:: true
 	- [IBM/UQ360: Uncertainty Quantification 360 (UQ360)](https://github.com/IBM/UQ360)
