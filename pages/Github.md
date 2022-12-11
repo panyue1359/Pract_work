@@ -3,10 +3,8 @@ title: Github
 ---
 
 - GitHub/安装
-  collapsed:: true
 	- [Windows系统Git安装教程（详解Git安装过程） - 学为所用 - 博客园](https://www.cnblogs.com/xueweisuoyong/p/11914045.html)
 - Github/基础
-  collapsed:: true
   id:: 62aacb88-63d4-429a-823a-3e3441c6e43c
 	- ((9ee2dc73-5bfe-426a-80b7-0b4708ebc24b))
 	- [如何使用 GitHub？ - 知乎](https://www.zhihu.com/question/20070065)推荐课程《Introduction to GitHub》
