@@ -2,9 +2,7 @@
   collapsed:: true
 	- [PyCaret帮助网站](https://pycaret.readthedocs.io/en/latest/installation.html)
 - PyCaret\基础
-  collapsed:: true
-	- 支持模型多（[阿水 盘点Kaggle中常见的AutoML工具库](https://zhuanlan.zhihu.com/p/427547997)）
-	- full版本含： ((de77949b-1dbc-4376-a2a9-3d4a9cc50ae9))
+	- 支持模型多（[阿水 盘点Kaggle中常见的AutoML工具库](https://zhuanlan.zhihu.com/p/427547997)），full版含XGBoost #XGBoost
 	- 通用
 	  collapsed:: true
 		- prepare data

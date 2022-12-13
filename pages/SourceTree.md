@@ -4,6 +4,7 @@
 - [【最全面】SourceTree使用教程详解（连接远程仓库，克隆，拉取，提交，推送，新建/切换/合并分支，冲突解决，提交PR） - 追逐时光者 - 博客园](https://www.cnblogs.com/Can-daydayup/p/13128633.html)
 - ## 报错
 - 回家以后无法提交，报错`ssh:connect to host github.com port 22: Connection timed out`
+	- 关闭微信试试
 	- 使用手机热点上网
 - 在新电脑git clone，报错sourcetree提示ssh密钥认证失败
 	- 多个电脑可以共用一个ssh [多个电脑共用一个ssh - 破男孩 - 博客园](https://www.cnblogs.com/ayseeing/p/4646292.html)
