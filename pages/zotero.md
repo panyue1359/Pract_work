@@ -107,6 +107,7 @@
 - 建立多个独立的库：只能通过多账号解决，比较复杂 [Creating a second personal library - Zotero Forums](https://forums.zotero.org/discussion/comment/338706#Comment_338706)
 - ## 插件和助手
 - 常用插件列表 [Zotero中文社区](https://zotero-chinese.gitee.io/zotero-plugins/#/)
+- jasminum（茉莉花） [l0o0/jasminum: A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据](https://github.com/l0o0/jasminum)
 - ZoteroStyle [MuiseDestiny/ZoteroStyle: 一个随便写写的Zotero插件](https://github.com/MuiseDestiny/ZoteroStyle)
   collapsed:: true
 	- ((63a41433-1dab-40ba-8fea-c71573d35b9e))
@@ -116,7 +117,7 @@
 	- [Zotero Better BibTex选项配置推荐(个人) - 知乎](https://zhuanlan.zhihu.com/p/458340252)
 	- Citation Key格式说明：[Customize the citation key generator - JabRef](https://docs.jabref.org/setup/citationkeypatterns#default-citation-key-pattern)
 	- 由于中文没有空格，作者推荐使用如下格式：[language=ja] [Authors:kuromoji:select=1,2:transliterate=ja][Title:kuromoji:skipwords:select=1,2:nopunct:transliterate=ja][year] | [language=zh] [Authors:jieba:select=1,2:transliterate=zh][Title:jieba:skipwords:select=1,2:nopunct:transliterate=zh][year] | [authEtAl][shorttitle2_2][year]，需要开启enable jieba
-- Zotero IF Pro：作者“青柠学术”已停止开发，核心功能与免费的茉莉花插件完全一致，且据说Max版内置“自毁”代码，作者道德水平堪忧 [Zotero IF Pro](https://github.com/deilt/zotero-if-pro)、[声明：凡是安装此破解版 Zotero IF Pro Max 的，将自动运行 Zotero 文献库自毁程序，全部文献将删除。 · Issue #2 · zibrr/zotero-if-pro-max_cracked](https://github.com/zibrr/zotero-if-pro-max_cracked/issues/2#issuecomment-1203368538)
+- Zotero IF 系列插件：作者“青柠学术”已停止开发，核心功能茉莉花插件和zotero-tag插件完全一致，但不遵守开源协议，且据说Max版内置“自毁”代码，^^作者道德水平堪忧，不建议使用^^ [Zotero IF Pro](https://github.com/deilt/zotero-if-pro)、[声明：凡是安装此破解版 Zotero IF Pro Max 的，将自动运行 Zotero 文献库自毁程序，全部文献将删除。 · Issue #2 · zibrr/zotero-if-pro-max_cracked](https://github.com/zibrr/zotero-if-pro-max_cracked/issues/2#issuecomment-1203368538)
   id:: e52361cc-c5ec-4a10-8eb8-73f2c19f6566
   collapsed:: true
 	- ((0d316331-59bc-42be-9322-4ec893922543))
