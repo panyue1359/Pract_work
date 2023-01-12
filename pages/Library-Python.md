@@ -13,7 +13,7 @@
   collapsed:: true
 	- [Python之CVXOPT模块 - 简书](https://www.jianshu.com/p/df447c3e4efe)：先卸载numpy，然后用pip install 安装numpy和cvxopt
 	- mosek：二次规划求解器，需要[额外安装](https://hyp.is/hUX3VDQIEeyrDKdMHffprw/cvxopt.org/userguide/coneprog.html)
-- [[Python/Library/优化算法库]]
+- [[优化算法库-Python]]
 - Python/Library/机器学习
   id:: XaIrAxjKD
   collapsed:: true
