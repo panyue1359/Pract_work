@@ -56,3 +56,4 @@
 	- ((63aa5eef-850d-4ba9-9250-6502a90f6d24))：在虚拟环境中添加kernel，而不是base环境 [python - No module named 'pycaret - Stack Overflow](https://stackoverflow.com/questions/68310729/no-module-named-pycaret)
 - Pycaret中的BaggingRegressor代码和sklearn网站的不一样
 - 报错 cannot import name 'delayed' from 'sklearn.utils.fixes，查看原文件发现文件名错误
+- 报错`ConnectionError: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /pycaret/datasets/main/data/common/mice.csv (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022BB6CF1340>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed'))`，从官方github仓库下载文件，然后从本地读取 [解决tsfresh下载robot_execution_failures数据集(host=‘raw.githubusercontent.com‘, port=443)的问题_liuxiaoru_的博客-CSDN博客_robot_execution_failures](https://blog.csdn.net/liuxiaoru_/article/details/120026576)
