@@ -21,7 +21,6 @@
 	- 自定义：[Find and edit CSL citation styles](https://editor.citationstyles.org/about/)网站的visual editor无法显示Layout部分的全部参数，只能使用code editor或者zotero自带编辑器，在layout部分手动添加`locale="zh"`参数才能显示中文效果
 	- 使用locale后，标记为zh的文献人名不会颠倒，所以外文名需要保持原顺序拆分，而不能颠倒。这是因为CSL无法识别同一个文献内的中英文人名，要么全按中文走，要么全按英文走。
 - 同步账号
-  collapsed:: true
 	- storage file储存在名为storage的子目录中，这里面包含您的文件附件，例如PDF文件，网页快照，音频文件或是其他任何您导入的文件（注意：通过链接方式添加的附件不会被复制到该子目录下。）
 	- linked file储存在其他位置，zotero只保留链接（链接关系属于data而不是file）
 	- 默认只同步storage file，包括webdav

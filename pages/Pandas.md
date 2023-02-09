@@ -38,7 +38,6 @@
 - 日期格式转字符串：[python pandas 中datetime和string互相转化_richard_18的博客-CSDN博客_pandas 时间转字符串](https://blog.csdn.net/richard_18/article/details/80720572)
 - 一维DataFrame转Series（取DataFrame某列作为Series索引）
   id:: HeF-ybsIJ
-  collapsed:: true
   id:: 4a5212de-5233-40ad-a363-76e5ad7ae0ba
 	- ``` python
 	  test = pd.Series(bar["content column"].values, index=bar["index column"], name="name")
