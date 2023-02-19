@@ -1,10 +1,9 @@
 - ## 信息检索
-- [pagenote](https://help.pagenote.cn/)
+- ~~[pagenote](https://help.pagenote.cn/)~~ 停止维护
 - [离线包安装指南（for 新手）](https://page-note.notion.site/for-b5fe205baff74f14a46614fe2ba29caa)
 - [PAGENOTE 的帮助页](https://page-note.notion.site/page-note/PAGENOTE-cfd9af87021049349e0420bc708c4206)
 - # G
 - 功能
-  collapsed:: true
 	- ## 批注离线网页
 	- [与开发者对线后，我得到了最强的网页笔记插件——Pagenote+Zotero_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rP4y1h7DB?spm_id_from=333.999.0.0)
 	- #+BEGIN_PINNED
