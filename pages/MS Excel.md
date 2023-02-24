@@ -18,7 +18,7 @@
 - 拆分字母和数字混杂的数据：分列
   collapsed:: true
 	- [如何在excel表格中将字母和数字分开-百度经验](https://jingyan.baidu.com/article/6181c3e0ff37b2152ef153c9.html)
-- ((13827514-91a4-4500-97a1-120c60188c79))：[怎么在Excel2010 的图表中设置双横轴?-ZOL问答](https://ask.zol.com.cn/x/6844061.html)
+- 双横轴 [怎么在Excel2010 的图表中设置双横轴?-ZOL问答](https://ask.zol.com.cn/x/6844061.html)
 - 判断单元格是否为特定值
   collapsed:: true
 	- ``` excel

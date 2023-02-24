@@ -1,6 +1,0 @@
-- ## 教程
-- [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
-- [打算翻译下这本书！ - 知乎](https://zhuanlan.zhihu.com/p/475781624?utm_source=wechat_session&utm_medium=social&utm_oi=903663640190803968&utm_campaign=shareopn)
-- ## 基础
-- [matplotlib.pyplot.plot()参数详解_ims的博客-CSDN博客_matplotlib plot](https://blog.csdn.net/sinat_36219858/article/details/79800460)
-- ((5c4f98c2-48a5-4f43-b09d-f903cb04e74a))：[matplotlib中color可用的颜色 - 浅蓝 - 博客园](https://www.cnblogs.com/qianblue/p/10783261.html)

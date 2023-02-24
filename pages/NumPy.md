@@ -34,7 +34,6 @@
   collapsed:: true
 	- ndarray.T
 - 改变数组形状
-  collapsed:: true
 	- 增加数组维度newaxis
 	- [reshape方法](https://www.jianshu.com/p/fc2fe026f002)
 - 切片和索引

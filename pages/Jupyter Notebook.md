@@ -2,7 +2,6 @@
 - Anaconda自带
 - ## 基础
 - 删除不想要的kernel
-  collapsed:: true
 	- 使用`jupyter kernelspec list`查看所有kernel，然后使用`jupyter kernelspec remove kernel名称`删除
 	- 如果list和jupyter notebook中的kernel对不上，那么通过list确认kernel所在的文件夹，手动删除不想要的kernel，效果一样 [r - remove kernel on jupyter notebook - Stack Overflow](https://stackoverflow.com/questions/42635310/remove-kernel-on-jupyter-notebook)
 - 修改默认启动目录

@@ -8,7 +8,12 @@
 - ## 常用包和库
 - [[Pandas]]
 - [[NumPy]]
-- [[Matplotlib]]
+- Matplotlib
+  id:: 63ecba53-33ad-4bb3-bbd9-1047532d72d6
+  collapsed:: true
+	- 推荐matplotlib，定制化程度高，适用于出版物 [怎样比较 seaborn 和 matplotlib？ - 知乎](https://www.zhihu.com/question/301637122?sort=created)：
+	- 教程：[rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)、[打算翻译下这本书！ - 知乎](https://zhuanlan.zhihu.com/p/475781624?utm_source=wechat_session&utm_medium=social&utm_oi=903663640190803968&utm_campaign=shareopn)
+	- 可用颜色：[matplotlib中color可用的颜色 - 浅蓝 - 博客园](https://www.cnblogs.com/qianblue/p/10783261.html)
 - cvxopt：二次规划库
   collapsed:: true
 	- [Python之CVXOPT模块 - 简书](https://www.jianshu.com/p/df447c3e4efe)：先卸载numpy，然后用pip install 安装numpy和cvxopt
