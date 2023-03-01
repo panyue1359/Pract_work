@@ -1,4 +1,5 @@
 - # A
+<<<<<<< HEAD
 - Anaconda3
   id:: 63fddd63-2695-487d-8c41-344da1b015fc
 - # B
@@ -9,5 +10,13 @@
   id:: 63fddfec-2bea-45c8-8f81-5a7e3f9c7689
 - Jupyter App
   id:: 63fd558f-9c5e-4ed8-84ff-464eddba1f62
+=======
+- [[安装-Python]]
+- # B
+- [[报错-Python]]
+- # J
+- [[语法-Python]]
+- [[Jupyter Notebook]]
+>>>>>>> 7394450ff3f1d3d6e5ef95d10c09eb98f8833ef9
 - # L
 - [[Library-Python]]
