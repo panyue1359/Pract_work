@@ -100,7 +100,7 @@ title: sklearn
 	  plot_learning_curve_data(pipe,X_trainval,y_trainval)
 	  
 	  ```
-	- TODO 学习曲线的横坐标是交叉验证折数还是样本数？
+	- 学习曲线的横坐标是交叉验证折数还是样本数？
 	  id:: 614de3d5-6b1f-4a10-9a25-754fcbd8a159
 - sklearn/问题
 	- 网格搜索pipe中的参数需要在字典中加“缩写__”前缀，否则会报错 Invalid parameter。[一个例子](https://www.5axxw.com/questions/content/8f560l)

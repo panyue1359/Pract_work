@@ -22,7 +22,7 @@
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
- :ui/enable-tooltip? false
+ :ui/enable-tooltip? true
 
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
@@ -113,7 +113,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:go/search "ctrl+p", :go/search-in-page "shift+ctrl+f"}
+ :shortcuts {:go/search "ctrl+p", :go/search-in-page "shift+ctrl+f", :graph/re-index "alt+ctrl+r"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
