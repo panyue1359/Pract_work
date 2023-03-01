@@ -1,6 +1,5 @@
 - ## 库
   id:: 6224b3d5-64ef-4d2d-ba45-f7a1232a23f6
-  collapsed:: true
 	- ((12723764-b137-4fbd-8029-d0c7b36d0e4a))
 	  id:: 625cc206-ccb2-42d7-add0-7f48ebdfe308
 - EvalML
@@ -65,10 +64,6 @@
 			- [关于使用Keras 中Sequential语句引用时报错的解决方法_zero00moon的博客-CSDN博客](https://blog.csdn.net/zero00moon/article/details/111169088)：将from keras ...改成from tensorflow.python.keras ...
 - ## 和“手动机器学习”的区别
   id:: 6224b3f7-03ac-4974-98ca-9776d4e86575
-<<<<<<< HEAD
-=======
-  collapsed:: true
->>>>>>> 7394450ff3f1d3d6e5ef95d10c09eb98f8833ef9
 	- [汇雅电子书-自动机器学习入门与实践](http://book.sslibrary.com/book/card?cnFenlei=TP311.561&ssid=14740604&d=b73c60b976ee9bc1eb424d0724405ac5&isFromBW=true&isjgptjs=false)
 	- [Automated Machine Learning | SpringerLink](https://link.springer.com/book/10.1007/978-3-030-05318-5#toc)：免费电子书
 - AutoML关心的是最终的模型，科研特别是材料科学并不十分关心模型，而更关心对建模过程的分析

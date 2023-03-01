@@ -11,28 +11,17 @@
   id:: 631551ae-2796-490d-a858-c4e717b1c44b
 - 图书版本只填数字
 - 红色搜索框（Add Citation dialog box）
-<<<<<<< HEAD
 	- 按空格启动搜索，按回车确认条目
 	- 点击确认的条目或者按Ctrl+方向键下可插入更多内容（如页码、章节等）：[Four-digit page numbers in Word plugin - Zotero Forums](https://forums.zotero.org/discussion/comment/404540#Comment_404540)
 	- 有时候搜索框不会置顶显示，需要在“首选项”->“高级”->“设置编辑器”中查找“extensions.zotero.integration.keepAddCitationDialogRaised”项，如果是false，需要右键，选择“toggle”
 - ((486cf681-e808-4636-95e5-21857e2cc00e))
   collapsed:: true
-=======
-  collapsed:: true
-	- 按空格启动搜索，按回车确认条目
-	- 点击确认的条目或者按Ctrl+方向键下可插入更多内容（如页码、章节等）：[Four-digit page numbers in Word plugin - Zotero Forums](https://forums.zotero.org/discussion/comment/404540#Comment_404540)
-- ((486cf681-e808-4636-95e5-21857e2cc00e))
-  collapsed:: true
->>>>>>> 7394450ff3f1d3d6e5ef95d10c09eb98f8833ef9
 	- 使用支持中英文混排的csl文件： [国标格式](https://zhuanlan.zhihu.com/p/278112406?utm_source=wechat_session)
 	- 设置中文文献的语言为zh，英文文献的语言为en：可使用插件 ((e52361cc-c5ec-4a10-8eb8-73f2c19f6566)) 快速设置
 	- 自定义：[Find and edit CSL citation styles](https://editor.citationstyles.org/about/)网站的visual editor无法显示Layout部分的全部参数，只能使用code editor或者zotero自带编辑器，在layout部分手动添加`locale="zh"`参数才能显示中文效果
 	- 使用locale后，标记为zh的文献人名不会颠倒，所以外文名需要保持原顺序拆分，而不能颠倒。这是因为CSL无法识别同一个文献内的中英文人名，要么全按中文走，要么全按英文走。
 - 同步账号
-<<<<<<< HEAD
   collapsed:: true
-=======
->>>>>>> 7394450ff3f1d3d6e5ef95d10c09eb98f8833ef9
 	- storage file储存在名为storage的子目录中，这里面包含您的文件附件，例如PDF文件，网页快照，音频文件或是其他任何您导入的文件（注意：通过链接方式添加的附件不会被复制到该子目录下。）
 	- linked file储存在其他位置，zotero只保留链接（链接关系属于data而不是file）
 	- 默认只同步storage file，包括webdav
