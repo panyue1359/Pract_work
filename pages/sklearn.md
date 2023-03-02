@@ -1,8 +1,3 @@
----
-title: sklearn
----
-
-- sklearn/官网
 - sklearn/基础
 	- 全流程：[材料数据科学:描述符和机器学习_就很秃然-CSDN博客_机器学习描述符](https://blog.csdn.net/qq_44785318/article/details/114751330)
 	- ((4f92dc7b-9df6-4972-b309-f33fd0a0e9c3))
