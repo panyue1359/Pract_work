@@ -28,7 +28,6 @@
 		- 整体思路:输入完latex公式要按空格确定，紧接着在公式输入框输入\#n（n为自己指定的公式编号，例如1,2,3……），然后按回车即可实现公式居中，编号右对齐。
 		- 自动编号:将编号n变为可以自动编号的东西即可，例如题注，域等。其实题注的本质也是域。此处可用来实现公式自动编号的域有：autonum、listnum、seq（题注本质上就是seq域）
 		- 加上划线，先输入公式，按空格出现一道，然后输入数字按空格，不需要打{}。
-- ((d1ecc318-3166-4d44-acb9-4e59fe995c42))
 - [对 Word 使用版本控制。](https://support.microsoft.com/zh-cn/office/%E5%AF%B9-word-%E4%BD%BF%E7%94%A8%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6-46b4d23f-b032-4837-94ab-746de8fbe6ec)：OneDrive 或 SharePoint，在国内速度太慢
 - ## 助手
 - Simul：[Version Control and Collaboration for Microsoft Word | Simul Docs](https://www.simuldocs.com/)
