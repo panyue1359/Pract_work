@@ -11,6 +11,7 @@
   id:: 631551ae-2796-490d-a858-c4e717b1c44b
 - 图书版本只填数字
 - 红色搜索框（Add Citation dialog box）
+  collapsed:: true
 	- 按空格启动搜索，按回车确认条目
 	- 点击确认的条目或者按Ctrl+方向键下可插入更多内容（如页码、章节等）：[Four-digit page numbers in Word plugin - Zotero Forums](https://forums.zotero.org/discussion/comment/404540#Comment_404540)
 	- 有时候搜索框不会置顶显示，需要在“首选项”->“高级”->“设置编辑器”中查找“extensions.zotero.integration.keepAddCitationDialogRaised”项，如果是false，需要右键，选择“toggle”
