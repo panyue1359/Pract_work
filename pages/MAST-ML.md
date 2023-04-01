@@ -1,7 +1,3 @@
----
-title: MAST-ML
----
-
 - MAST-ML/官网
 	- [MAST-ML github](https://github.com/uw-cmg/MAST-ML)
 	- [MAST-ML手册](https://mastmldocs.readthedocs.io/en/latest/)
@@ -24,10 +20,8 @@ title: MAST-ML
 		  
 		  ```
 		- 最后追加日期和时间，其中selector是feature_selectors.py中的类，NoSelect表示保留全部特征
-	- ((fcb0f07e-edb1-4b97-8e86-063593051b4f))
-		- 可使用 ((08586262-2c91-4140-bad9-614621d61d93))调取数据
+		- 可使用Magpie调取数据
 		- 自动特征生成（如平均熔点、加权平均熔点、最高熔点、最低熔点等）
-		- ((307780d9-946e-49e2-96c4-d7d8837e3ada))
 		- LeaveOutClusterCV
 		  id:: 62241a5d-2d5e-4e5b-8bae-1efc284710fe
 			- 聚类后，每个聚类依次作为测试集，其他聚类作为训练集，进行交叉验证

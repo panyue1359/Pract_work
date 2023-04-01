@@ -6,7 +6,5 @@
 - ## 基础
 - 有机器学习模块 [机器学习](https://reference.wolfram.com/language/guide/MachineLearning.html)
   id:: 264e4e53-e838-4bf6-91ce-c8a663676adc
-- ((01bdd1b4-819e-4517-a2f2-675f7595473c))：图像修复工具，相当于一些PS功能：用PS打开图片，使用左侧栏的快速选取工具选择区域。右键-填充，白色。反选，右键-填充，黑色。就能制成和网站上一样的润饰区域。
-- ((86847960-4ce0-4371-a826-83c00198e8b6))：寻找两幅图像中相同的部分 [图像配准](https://reference.wolfram.com/language/ref/ImageAlign.html)
 - 输入特殊字符 [Mathematica 特殊字符输入（希腊字母/运算符）-百度经验](https://jingyan.baidu.com/article/948f5924c62db5d80ff5f9e7.html)
 - ((635b98cc-41c3-4e2d-849c-407e2461193f))：[Mathematica 导出公式到LATEX-百度经验](https://jingyan.baidu.com/article/d8072ac4b7cfcaec95cefd2b.html)
