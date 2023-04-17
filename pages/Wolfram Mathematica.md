@@ -7,4 +7,3 @@
 - 有机器学习模块 [机器学习](https://reference.wolfram.com/language/guide/MachineLearning.html)
   id:: 264e4e53-e838-4bf6-91ce-c8a663676adc
 - 输入特殊字符 [Mathematica 特殊字符输入（希腊字母/运算符）-百度经验](https://jingyan.baidu.com/article/948f5924c62db5d80ff5f9e7.html)
-- ((635b98cc-41c3-4e2d-849c-407e2461193f))：[Mathematica 导出公式到LATEX-百度经验](https://jingyan.baidu.com/article/d8072ac4b7cfcaec95cefd2b.html)
