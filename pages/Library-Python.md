@@ -1,8 +1,6 @@
-- # N
-- [[NumPy]]
-- # P
-- [[Pandas]]
-- # Y
-- [[优化算法库-Python]]
-- [[机器学习-Python]]
-  id:: 9baa0f1a-1102-4ee5-aa94-6a68e36943cd
+- # S
+- [[数据科学]]
+  id:: 64464f0d-7aee-4e69-9e3b-cf1618b0117f
+- # T
+- 通用
+  id:: 64464f11-a6c1-4aa3-9c9e-abfd83bcb169

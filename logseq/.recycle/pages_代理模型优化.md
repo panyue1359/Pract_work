@@ -1,0 +1,3 @@
+- ((64453f0a-39cc-4099-af21-910006aa95f2))
+- 代理模型优化/别名：surrogate-based modeling, kriging优化, adaptive design, 自适应设计
+- 代理模型优化/定义
