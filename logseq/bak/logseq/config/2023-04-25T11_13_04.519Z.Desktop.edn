@@ -57,7 +57,7 @@
  ;; When :all-pages-public? true, export repo would export all pages within that repo.
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
- :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
@@ -231,6 +231,7 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "contents"}
+ :graph/settings {:builtin-pages? true}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

@@ -231,6 +231,7 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "contents"}
+ :graph/settings {:builtin-pages? true}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
