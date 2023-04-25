@@ -230,8 +230,8 @@
  :feature/enable-timetracking? false
  :file/name-format :triple-lowbar
  :feature/enable-journals? true
- :default-home {}
- :graph/settings {:builtin-pages? true}
+ :default-home {:sidebar "contents"}
+ :graph/settings {:builtin-pages? true, :journal? false, :excluded-pages? false}
  :feature/enable-flashcards? false
 
  ;; Properties to exclude from having property pages
