@@ -213,7 +213,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["学术研究与交流"]
+ :favorites []
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -231,6 +231,8 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "contents"}
+ :graph/settings {:builtin-pages? true}
+ :feature/enable-flashcards? false
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
