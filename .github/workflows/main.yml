@@ -22,15 +22,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Logseq Publish 🚩
-        uses: pengx17/logseq-publish@main
-        with:
-          version: "master"
+        uses: pengx17/logseq-publish@0.1.8
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
           clean: true
-          single-commit: true
