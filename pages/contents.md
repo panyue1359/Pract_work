@@ -6,7 +6,6 @@
 - [[软件工程]]
 - [[学术研究与交流]]
 - # Tips
-  collapsed:: true
 	- collapsed:: true
 	  #+BEGIN_NOTE
 	  Why
