@@ -229,10 +229,11 @@
  :property-pages/enabled? true
  :feature/enable-timetracking? false
  :file/name-format :triple-lowbar
- :feature/enable-journals? true
- :default-home {}
- :graph/settings {:builtin-pages? false, :journal? false}
+ :feature/enable-journals? false
+ :default-home {:sidebar "contents", :page "机器学习"}
+ :graph/settings {:builtin-pages? true, :journal? false, :excluded-pages? false}
  :feature/enable-flashcards? false
+ :feature/enable-whiteboards? false
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
