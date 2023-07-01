@@ -230,7 +230,7 @@
  :feature/enable-timetracking? false
  :file/name-format :triple-lowbar
  :feature/enable-journals? true
- :default-home {:sidebar "contents", :page "Contents"}
+ :default-home {:sidebar "contents"}
  :graph/settings {:builtin-pages? true, :journal? false, :excluded-pages? false}
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? false
