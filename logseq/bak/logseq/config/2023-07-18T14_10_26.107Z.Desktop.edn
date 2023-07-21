@@ -213,7 +213,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites []
+ :favorites ["May 5th, 2022" "Oct 1st, 2022"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -229,8 +229,8 @@
  :property-pages/enabled? true
  :feature/enable-timetracking? false
  :file/name-format :triple-lowbar
- :feature/enable-journals? false
- :default-home {:sidebar "contents", :page "机器学习"}
+ :feature/enable-journals? true
+ :default-home {:sidebar "contents"}
  :graph/settings {:builtin-pages? true, :journal? false, :excluded-pages? false}
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? false
