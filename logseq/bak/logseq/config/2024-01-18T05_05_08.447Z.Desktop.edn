@@ -22,7 +22,7 @@
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
- :ui/enable-tooltip? true
+ :ui/enable-tooltip? false
 
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
@@ -213,7 +213,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites []
+ :favorites ["Contents"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -230,7 +230,7 @@
  :feature/enable-timetracking? false
  :file/name-format :triple-lowbar
  :feature/enable-journals? true
- :default-home {:sidebar "contents", :page "机器学习"}
+ :default-home {:sidebar "contents"}
  :graph/settings {:builtin-pages? true, :journal? false, :excluded-pages? false}
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? false
