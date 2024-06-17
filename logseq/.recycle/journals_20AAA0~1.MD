@@ -1,7 +1,5 @@
-- ## 自定义参考文献样式
-  id:: a7c8eecf-a432-45a2-a58b-50dd7d40ad6c
+## 自定义参考文献样式
 	- ((6289e765-a63a-4eb1-b137-c429beab2f7a))
-	  collapsed:: true
 		- 参考
 			- [[Citavi]]
 			- [[NoteExpress]]
@@ -15,8 +13,6 @@
 	- 导入自定义格式：主界面tools-options-folders，查看user files的位置，把ccs文件放入Custom Citation Styles文件夹中。然后回到citation就可以看到了。
 - NoteExpress自定义参考文献样式：在NoteExpress中没有看到为命令“选中的题录右击 => 复制题录 => 格式化复制”指定输出样式的明确配置项，但格式化复制的输出样式也是可以变化了，随细节大面板里的“预览”标签页里的“样式”下拉框选项变化
 - zotero自定义参考文献样式
-  id:: 633103b5-2250-457f-b76e-e1128be1898a
-  collapsed:: true
 	- 自定义CSL步骤：访问网站[Find and edit CSL citation styles](https://editor.citationstyles.org/about/)->选择样式或者上传CSL文件->左侧栏STYLE INFO是CSL文件的描述，包括制作者、日期等；INLINE CITATION是文内引用格式；BIBLIOGRAPHY是参考文献目录样式；**MACROS是对不同元数据的处理方式，本质上是一组IF...THEN规则，是CSL的核心**；ADVANCED是以上所有信息的汇总->确定条目类型->在[CSL参数表](https://aurimasv.github.io/z2csl/typeMap.xml#cslVar-issued)查找对应条目类型（UI Label）的元数据类型（Zotero field）及变量类型（CSL field），例子如下->保存一次以后需要刷新才能再次保存（刷新不会丢内容）
 	  collapsed:: true
 		- 期刊文章属于article，书籍属于book，会议论文属于paper-conference，硕博士论文属于thesis，网页属于webpage
