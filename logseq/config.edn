@@ -234,6 +234,7 @@
  :graph/settings {:builtin-pages? true, :journal? false, :excluded-pages? false}
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? false
+ :journal/page-title-format "yyyy/MM/dd"
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
