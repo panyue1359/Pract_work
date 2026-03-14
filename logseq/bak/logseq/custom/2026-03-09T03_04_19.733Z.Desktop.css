@@ -1,0 +1,39 @@
+/* ****************************
+************** Root ***********
+*******************************/
+
+:root {
+    --ls-font-family: "Inter";
+    --ls-main-content-max-width: 900px; /* default: 810px */
+    --ls-main-content-max-width-wide: 1280px; /* default: 1280px */
+    --ls-page-text-size: 1em;
+    --ls-page-title-size: 26px;
+    --ls-tag-text-opacity: 0.8;
+    --ls-tag-text-hover-opacity: 1;
+    --ls-block-bullet-threading-width-overwrite: 2px;
+    --ls-block-bullet-active-color-overwrite: var(--ls-link-text-color);
+    --code-font-family: "Hack", monospace;
+    --ct-h1-color: #9FCCB3;
+    --ct-h1-border: 1px solid var(--ls-border-color);
+    --ct-h2-color: #E1B493;
+    --ct-h2-border: 1px solid var(--ls-border-color);
+    --ct-h3-color: #DDA6E0;
+    --ct-h3-border: 1px solid var(--ls-border-color);
+}
+
+@import 'colors.scss';
+@import 'theme.scss';
+@import 'code-mirror.scss';
+@import 'block-refs.scss';
+@import 'header-labels.scss';
+@import 'tasks.scss';
+@import 'admonition-blocks.scss';
+@import 'page-prop-icons.scss';
+
+/* quick fix: hr border-color controlled by
+*  --lx-gray-05: var(--cp-darker); // --ls-menu-hover-color
+* this would mean same as bg color :(
+*/
+.content hr {
+    border-color: #32363e;
+}
