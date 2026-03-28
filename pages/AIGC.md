@@ -8,4 +8,4 @@
 - 指令
   id:: 69b41c9d-0b1e-4936-a190-3fdb285f28a9
   collapsed:: true
-	- 别名: Prompts
+	- 别名: Prompts, 提示词
